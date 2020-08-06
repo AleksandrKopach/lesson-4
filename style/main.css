@@ -97,7 +97,7 @@
     background: none;
     border: 2px white solid;
     color: white;
-    cursor: pointer
+    cursor: pointer;
 }
 
 /*====================================Header form===================================*/
@@ -171,7 +171,7 @@ span {
     background: #FF9B51;
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
-    cursor: pointer
+    cursor: pointer;
 }
 
 /*====================================Social=================================*/
@@ -296,7 +296,7 @@ span {
     padding: 16px 25px 17px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
     border-radius: 2px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 /*===============================Features image========================================*/
